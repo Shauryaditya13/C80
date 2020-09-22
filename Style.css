@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+input{
+    margin: 10px;
+}
+#Submitbutton{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#Sortingbutton{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+#output{
+    background-color:mediumslateblue;
+    width: 50%;
+}
+#displaywithoutcommas{
+    background-color:greenyellow;
+    width: 50%;
+}
